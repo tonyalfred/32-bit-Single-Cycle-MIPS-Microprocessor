@@ -1,0 +1,2 @@
+// this is the file that would be automatically loaded into the instruction memory of the microprocessor
+// add supported instructions here in hexadecimal
